@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-02-phonebook",
+  "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://yaroslavboldyshev.github.io/goit-react-hw-02-phonebook",
+  "homepage": "https://yaroslavboldyshev.github.io/goit-react-hw-03-phonebook",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
